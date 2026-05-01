@@ -1,0 +1,25 @@
+task_id,service_name,priority,team,owner,actual_tat_hrs,sla_hours,tat_variance_hrs,tat_variance_pct,sla_status,start_time,end_time
+TSK-0032,Reconciliation,P2,Gamma,Divya R.,10.7,6,4.7,78.3,SLA Breached,2026-04-28 17:00:00,2026-04-29 03:42:00
+TSK-0007,Report Generation,P1,Beta,Ravi T.,6.64,4,2.64,66.0,SLA Breached,2026-04-25 10:00:00,2026-04-25 16:38:24
+TSK-0004,Audit Validation,P2,Beta,Ravi T.,13.08,8,5.08,63.5,SLA Breached,2026-04-29 18:00:00,2026-04-30 07:04:48
+TSK-0021,Client Delivery,P1,Alpha,Meera K.,4.83,3,1.83,61.0,SLA Breached,2026-04-26 17:00:00,2026-04-26 21:49:48
+TSK-0048,Data Ingestion,P1,Alpha,Arjun M.,2.85,2,0.85,42.5,SLA Breached,2026-04-25 09:00:00,2026-04-25 11:51:00
+TSK-0055,Report Generation,P1,Beta,Sneha P.,5.66,4,1.66,41.5,SLA Breached,2026-04-28 07:00:00,2026-04-28 12:39:36
+TSK-0060,Data Ingestion,P1,Alpha,Arjun M.,2.78,2,0.78,39.0,SLA Breached,2026-04-24 18:00:00,2026-04-24 20:46:48
+TSK-0056,Reconciliation,P2,Gamma,Lakshmi J.,8.21,6,2.21,36.8,SLA Breached,2026-04-29 08:00:00,2026-04-29 16:12:36
+TSK-0035,Data Transformation,P2,Gamma,Nikhil V.,6.6,5,1.6,32.0,SLA Breached,2026-04-26 17:00:00,2026-04-26 23:36:00
+TSK-0008,Reconciliation,P2,Gamma,Lakshmi J.,7.77,6,1.77,29.5,SLA Breached,2026-04-28 07:00:00,2026-04-28 14:46:12
+TSK-0041,Data Transformation,P2,Gamma,Lakshmi J.,6.41,5,1.41,28.2,SLA Breached,2026-04-26 10:00:00,2026-04-26 16:24:36
+TSK-0003,Client Delivery,P1,Alpha,Priya S.,3.72,3,0.72,24.0,SLA Breached,2026-04-25 18:00:00,2026-04-25 21:43:12
+TSK-0054,Data Ingestion,P1,Alpha,Meera K.,2.45,2,0.45,22.5,SLA Breached,2026-04-27 15:00:00,2026-04-27 17:27:00
+TSK-0010,Audit Validation,P2,Beta,Kiran L.,9.55,8,1.55,19.4,SLA Breached,2026-04-29 15:00:00,2026-04-30 00:33:00
+TSK-0001,Report Generation,P1,Beta,Kiran L.,4.69,4,0.69,17.2,SLA Breached,2026-04-24 07:00:00,2026-04-24 11:41:24
+TSK-0028,Audit Validation,P2,Beta,Sneha P.,8.95,8,0.95,11.9,SLA Breached,2026-04-29 12:00:00,2026-04-29 20:57:00
+TSK-0049,Report Generation,P1,Beta,Kiran L.,4.42,4,0.42,10.5,SLA Breached,2026-04-27 08:00:00,2026-04-27 12:25:12
+TSK-0059,Data Transformation,P2,Gamma,Nikhil V.,5.5,5,0.5,10.0,SLA Breached,2026-04-27 09:00:00,2026-04-27 14:30:00
+TSK-0051,Client Delivery,P1,Alpha,Priya S.,3.29,3,0.29,9.7,SLA Breached,2026-04-29 09:00:00,2026-04-29 12:17:24
+TSK-0018,Data Ingestion,P1,Alpha,Meera K.,2.18,2,0.18,9.0,SLA Breached,2026-04-26 07:00:00,2026-04-26 09:10:48
+TSK-0013,Report Generation,P1,Beta,Ravi T.,4.24,4,0.24,6.0,SLA Breached,2026-04-29 13:00:00,2026-04-29 17:14:24
+TSK-0037,Report Generation,P1,Beta,Kiran L.,4.18,4,0.18,4.5,SLA Breached,2026-04-26 07:00:00,2026-04-26 11:10:48
+TSK-0040,Audit Validation,P2,Beta,Ravi T.,8.31,8,0.31,3.9,SLA Breached,2026-04-25 16:00:00,2026-04-26 00:18:36
+TSK-0042,Data Ingestion,P1,Alpha,Meera K.,2.05,2,0.05,2.5,SLA Breached,2026-04-27 13:00:00,2026-04-27 15:03:00
